@@ -1,4 +1,8 @@
-# In-class-activity-Continuous-Integration
-for cs362 Section 001
+# CS 362 Pytest Activity
+Completed On 03-10-2021
 
-Specification: For In-class activity: Continuous Integration
+Using Pytest for unit testing
+
+Test Example Output:
+
+![Program Example Run](https://github.com/ConnerFosterCS/In-class-activity-Continuous-Integration/blob/main/pytest%20output.PNG)
