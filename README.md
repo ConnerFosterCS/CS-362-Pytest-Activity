@@ -1,4 +1,4 @@
-# CS 362 Pytest Activity
+# CS-362-Pytest-Activity
 Completed On 03-10-2021
 
 Using Pytest for unit testing
